@@ -1,4 +1,4 @@
-import Link from 'next/link'
+import { Link } from '../routes';
 
 export default class extends React.Component {
   render() {
